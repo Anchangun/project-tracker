@@ -16,5 +16,7 @@
 - Git Lab 관리 (MR, Branch, Release, Docs)
 - 설계 ( Sequence Diagram, FlowChart, Data Flow Diagram, Package Diagram )
 - 업무 관리 ( WBS, Jira 관리, 컨플 관리 )
+- Slamtool Box Parameter Setting 
+- Manual Mapping Guide
 ---
 # 2024
